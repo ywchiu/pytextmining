@@ -28,3 +28,7 @@ python setup.py install
 
 ### ipython notebook setting
 https://gist.github.com/ywchiu/935b224ac3fc42f9f00c
+
+
+### pandas install
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#pandas
