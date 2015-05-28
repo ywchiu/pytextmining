@@ -16,3 +16,8 @@ http://class3.largitdata.com/ipython/
 ### InfoLite
 https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
 
+
+###Files for download
+https://pypi.python.org/pypi/pip#downloads
+
+http://www.7-zip.org/a/7z920-x64.msi
