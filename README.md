@@ -25,3 +25,6 @@ http://www.7-zip.org/a/7z920-x64.msi
 cd C:\Users\david\Desktop\pip-7.0.1.tar\dist\pip-7.0.1\pip-7.0.1
 
 python setup.py install 
+
+### ipython notebook setting
+https://gist.github.com/ywchiu/935b224ac3fc42f9f00c
