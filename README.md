@@ -4,7 +4,9 @@
 https://www.slideshare.net/secret/wbBSOn8Dp9LOf8
 
 ### 程式碼:
-https://github.com/ywchiu/pytextmining/blob/master/DataETL.ipynb
+- https://github.com/ywchiu/pytextmining/blob/master/DataETL.ipynb
+
+- https://github.com/ywchiu/pytextmining/blob/master/Text%20Mining.ipynb
 
 ### 作業環境
 http://class1.largitdata.com/ipython/
