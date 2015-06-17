@@ -1,7 +1,7 @@
 ## 文字探勘實作班
 
 ### 投影片:
-https://www.slideshare.net/secret/6KA3rOdDZRJnrp
+https://www.slideshare.net/secret/wbBSOn8Dp9LOf8
 
 ### 程式碼:
 https://github.com/ywchiu/pytextmining/blob/master/DataETL.ipynb
