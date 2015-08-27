@@ -33,6 +33,8 @@ https://gist.github.com/ywchiu/935b224ac3fc42f9f00c
 
 
 ### pandas install
+https://goo.gl/nBRz7G
+
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#pandas
 
 https://store.continuum.io/cshop/anaconda/
