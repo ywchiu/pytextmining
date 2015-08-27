@@ -3,6 +3,12 @@
 ### 投影片:
 https://www.slideshare.net/secret/wbBSOn8Dp9LOf8
 
+
+### install ipython notebook
+- pip install "ipython[notebook]"
+
+- ipython notebook
+
 ### 程式碼:
 - https://github.com/ywchiu/pytextmining/blob/master/DataETL.ipynb
 
