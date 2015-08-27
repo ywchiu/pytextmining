@@ -1,7 +1,7 @@
 ## 文字探勘實作班
 
 ### 投影片:
-https://www.slideshare.net/secret/wbBSOn8Dp9LOf8
+https://www.slideshare.net/secret/48pMyzX5gxwyuQ
 
 
 ### install ipython notebook
