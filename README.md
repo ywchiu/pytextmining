@@ -14,12 +14,6 @@ https://www.slideshare.net/secret/wbBSOn8Dp9LOf8
 
 - https://github.com/ywchiu/pytextmining/blob/master/Text%20Mining.ipynb
 
-### 作業環境
-http://class1.largitdata.com/ipython/
-
-http://class2.largitdata.com/ipython/
-
-http://class3.largitdata.com/ipython/
 
 ### InfoLite
 https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
