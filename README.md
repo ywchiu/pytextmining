@@ -2,7 +2,7 @@
 
 ### 投影片:
 https://www.slideshare.net/secret/48pMyzX5gxwyuQ
-
+https://www.slideshare.net/secret/wUEpQaud32f153
 
 ### Anaconda
 - https://www.continuum.io/downloads
