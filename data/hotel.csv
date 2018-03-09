@@ -1,0 +1,526 @@
+,address,lat,lon,title
+0,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+1,"No.30 Youya Road, Beitou District, Taipei 11243, Taiwan ",25.137793,121.51495,Grand View Resort Beitou
+2,"No.57 Taiyuan Road, Datong District, Taipei 103, Taiwan ",25.05109,121.51539,Bee House - Taipei Station Branch
+3,"No.28 Section 1, Minsheng East Road, Zhongshan District, Taipei 104, Taiwan ",25.057854,121.52409,YoMi Hotel
+4,"No.3 Zhongshan Road, Beitou District, Taipei 11243, Taiwan ",25.137163,121.50544,Beitou Hot Spring Resort (Tian Yue Quan)
+5,"2F, No.76 Linyi Street, Zhongzheng District, Taipei 10056, Taiwan ",25.03447,121.52779,Dongmen Hotel
+6,"1F., No.209, Sec. 1, Civic Blvd, Taipei, Taiwan ",25.04879,121.51857,iTaipei Service Apartment
+7,"2F., No.12 Lane 21, Zhengzhou Road, Datong District, Taipei 103, Taiwan ",25.049322,121.51413,Main Inn Taipei
+8,"No.18 Songgao Road, Xinyi District, Taipei 11073, Taiwan ",25.039248,121.56741,Humble House Taipei
+9,"No.77 Chang'an West Road, Datong District, Taipei 103, Taiwan ",25.051022,121.51667,CityInn Hotel - Taipei Station Branch III
+10,"10F., No.72, Sec. 2, Wuchang Street, Ximending, Taipei 10844, Taiwan ",25.04485,121.506325,Swiio Hotel
+11,"4F., No.11, Sec. 2, Nanjing E. Road, Taipei 104, Taiwan ",25.052057,121.52831,Taipei Morning Hotel
+12,"77 Section 2 Wuchang Street, Taipei 10843, Taiwan ",25.045166,121.50567,amba TAIPEI XIMENDING
+13,"No.131 Section 3, Nanjing East Road, Zhongshan District, Taipei 104, Taiwan ",25.05203,121.54097,FX Hotel - Taipei Nanjing East Road
+14,"2F, No.42, Section 1, Minsheng East Road, Taipei 104, Taiwan ",25.058155,121.52451,Via Hotel Loft
+15,"No.236 Guangming Road, Peitou District, Taipei, Taiwan ",25.136833,121.50633,Radium Kagaya International Hotel
+16,"No.12, Section 1, Zhongxiao East Road, Taipei 100, Taiwan ",25.044834,121.52251,Sheraton Grande Taipei Hotel
+17,"No.38 Songren Road, Xinyi District, Taipei 110, Taiwan ",25.037867,121.56796,Le Meridien Taipei
+18,"No.90 Songren Road, Xinyi District, Taipei, Taiwan ",25.035036,121.5677,Home Hotel
+19,"No.333 Nanjing East Road, Section 3, Songshan District, Taipei 105, Taiwan ",25.051939,121.54755,HOTEL QUOTE Taipei
+20,"No.63 Sung Chiang Road, Taipei 104, Taiwan ",25.04892,121.53329,Evergreen Laurel Hotel
+21,"No.63 Baoqing Road, Zhongzheng District, Taipei, Taiwan ",25.041847,121.50927,CityInn Hotel Plus - Ximending Branch
+22,"No.600 Linshen North Road, Zhongshan District, Taipei 104, Taiwan ",25.06592,121.52569,Imperial Hotel Taipei
+23,"No.11 Youya Road, Beitou District, Taipei 112, Taiwan ",25.13717,121.5122,Hotel DOUBLE ONE
+24,"11F, No.495 Guangfu South Road, Xinyi District, Taipei, Taiwan ",25.032547,121.55829,Pacific Business Hotel
+25,"No.186 Sung Chiang Road, Taipei 10467, Taiwan ",25.056469,121.532776,Taipei Gala Hotel
+26,"No.70 Tianjin Street, Zhongshan District, Taipei, Taiwan ",25.051615,121.52337,Dandy Hotel - Tianjin Branch
+27,"No.169 Nanjing West Road, Tatung District, Taipei, Taiwan ",25.05418,121.51284,City Suites Taipei Nanxi
+28,"No.200 Kwang-Fu South Road, Da'an District, Taipei 106, Taiwan ",25.042334,121.5575,United Hotel
+29,"No.38, Sec. 1, Nanjing E. Road, Taipei, Taiwan ",25.05211,121.52393,Leofoo Residences
+30,"No.331 Section 1, Dunhua South Road, Taipei 10685, Taiwan ",25.034042,121.5492,Madison Taipei
+31,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+32,"No.258 Section 2, Yanping North Road, Datong District, Taipei 103, Taiwan ",25.06032,121.51127,Dong Wu Hotel
+33,"No.15, Sec. 1, Hankou Street, Taipei 10046, Taiwan ",25.045238,121.51449,Hotel Relax II
+34,"No.39 Changchun Road, Zhongshan District, Taipei 104, Taiwan (Formerly Horng Gong Hotel Taipei)",25.05494,121.52591,Tokyo International Hotel
+35,"No.135 Section 1, Da'an Road, Taipei 106, Taiwan ",25.038345,121.54609,Les Suites Taipei Da An
+36,"No.411, Sec. 5, Nanjing East Road, Songshan District, Taipei 105, Taiwan ",25.05142,121.57016,City Suites-Taipei Nandong
+37,"No.1 Qiyan Road, Beitou District, Taipei 11242, Taiwan ",25.134659,121.507195,The Gaia Hotel
+38,"No.253 Songjiang Road, Taipei 104, Taiwan ",25.059462,121.53338,Check Inn Taipei
+39,"No.255, Section 2, Xinyi Road, Taipei 100, Taiwan ",25.03375,121.53146,ARK Hotel
+40,"No.26 Zhongshan Road, Beitou District, Taipei 112, Taiwan ",25.13782,121.51026,Royal Seasons Hotel (Hot Spring Beitou)
+41,"3-12F, No.163, Section 2 Xinyi Road, Zhongzheng District, Taipei 100, Taiwan ",25.034039,121.52882,Chaiin Hotel - Dongmen
+42,"No.255 Section 3, Nanking East Road, Taipei, Taiwan ",25.051788,121.5445,Brother Hotel Taipei
+43,"No.646 Linsen North Road, Taipei 104, Taiwan ",25.068357,121.52553,Riviera Hotel
+44,"No.133 Section 3, Nanking East Road, Taipei 104, Taiwan ",25.052166,121.541115,The Westin Taipei
+45,"No.297 Section 5, Zhongxiao East Road, Xinyi District, Taipei 11066, Taiwan ",25.04089,121.57295,THE Tango Taipei XinYi
+46,"No.326,330 Nanjing West Road, Taipei 103, Taiwan ",25.053894,121.51289,Royal Seasons Hotel Taipei Nanjing West
+47,"No.213 Section 4, Pateh Road, Songshan District, Taipei 105, Taiwan (Formerly The Richforest Hotel)",25.04886,121.56414,Lealea Garden Hotels-Taipei
+48,"No.2 Lane 90, Section 1, Roosevelt Road, Taipei 100, Taiwan ",25.030077,121.51966,Saual Keh Hotel
+49,"No.11 Section 3, Hsin-Yi Road, Da'an District, Taipei, Taiwan ",25.03375,121.53374,Rido Hotel
+50,"No.63 Section 2, Zhongshan North Road, Taipei 10446, Taiwan ",25.056581,121.52313,Ambassador Hotel Taipei
+51,"No.83 Section 3, Civic Boulevard, Zhongshan District, Taipei 10491, Taiwan ",25.044691,121.53747,Miramar Garden Taipei
+52,"No.6 Lane 27 Chengdu Road, Wanhua District, Taipei 108, Taiwan (Formerly Good Ground Hotel)",25.04291,121.50681,Hotel Puri
+53,"2F., No.17, Lane 114, Section 1 Chunghua Road, Taipei 10843, Taiwan ",25.043793,121.50813,Via Hotel
+54,"No.224 Cuang Ming Road, Beitou District, Taipei 112, Taiwan ",25.13603,121.50548,Sweetme Hotspring Resort
+55,"No.18 Section 1, Chongqing South Road, Zhongzheng District, Taipei 100, Taiwan (Formerly Onestar Hotel)",25.04624,121.51313,Sun Rise Business Hotel - Taipei Main Station
+56,"No.32 Zhongshan Road, Beitou District, Taipei 112, Taiwan ",25.137833,121.5105,Villa 32
+57,"No.3 Nanjing West Road, Zhongshan District, Taipei 10444, Taiwan ",25.052748,121.52155,THE Tango Taipei NanShi
+58,"No.399 Sec. 5, Nanjing East Road, Songshan Road, Taipei 105, Taiwan ",25.05149,121.56967,NK Hostel
+59,"No.71 Section 1, Jinshan South Road, Taipei 10056, Taiwan ",25.037333,121.52817,Royal Biz Taipei
+60,"3F, No.117 Linsen North Road, Taipei, Taiwan ",25.050667,121.52517,Just Sleep (Lin Sen)
+61,"6F, No.90, Section 1, Zhonghua Road, Taipei, Taiwan ",25.044687,121.5088,Muzik Hotel Ximending - ZhongHua Branch
+62,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+63,"No.8 Section1, Jinshan South Road, Jhongjheng District, Taipei, Taiwan ",25.04224,121.52951,Hotel Eight Zone
+64,"No.295 Section 4, Xinyi Road, Da'an District, Taipei, Taiwan ",25.034733,121.54511,Taipei Charming City Hotel
+65,"No.9 Lane 64 Sec. 2 Jianguo North Road, Taipei 104, Taiwan ",25.0543,121.5359,Beauty Hotels Taipei - Roumei Boutique
+66,"No.41 Section 2, Fuxing South Road, Da'an District, Taipei, Taiwan ",25.03147,121.54363,Taipei Fullerton Funan
+67,"B1, No.16, Sec. 5, Xinyi Road, Xinyi District, Taipei 11049, Taiwan ",25.032806,121.5633,Sparkle Hotel
+68,"4F, No.83 Linsen North Road, Taipei 104, Taiwan ",25.04975,121.52476,Royal Inn Taipei Linsen
+69,"No.81-1 Section 1 Da-An Road, Taipei, Taiwan ",25.04106,121.5461,Royal Palace Hotel
+70,"No.80, Sec.1, Jinshan South Road, Taipei, Taiwan ",25.0364,121.52771,Citizen Hotel
+71,"No.136 Section 1, Fushing South Road, Taipei, Taiwan ",25.04274,121.54369,Deja Vu Hotel
+72,"No.18 You Ya Road, Beitou District, Taipei 112, Taiwan ",25.13754,121.51371,Spring City Resort
+73,"F13, No.41, Section 1, Zhonghua Road, Zhongzheng District, Taipei 10042, Taiwan ",25.044924,121.50944,Green World Hotel Zhonghua
+74,"4F., No.246, Sec. 2, Changan East Road, Taipei 104, Taiwan ",25.048325,121.540405,Horizon Inn
+75,"No.178, Sec. 2, Minsheng E. Rd, Taipei, Taiwan ",25.05785,121.53621,Hotel Cozzi Minsheng Taipei
+76,"11F., No.8 Guanqian Road, Zhongzheng District, Taipei 10047, Taiwan ",25.045801,121.51484,Hotel Relax I
+77,"No.14 Lane 38, Tianyu Street, Shilin District, Taipei 111, Taiwan ",25.12038,121.52927,Beauty Hotels Taipei - Beautique
+78,"No.49 Section 3, Chengde Road, Taipei 103, Taiwan ",25.06487,121.51844,Santos Hotel
+79,"No.240 Guangming Road, Beitou District, Taipei 112, Taiwan ",25.13626,121.50733,Golden Hot Spring Hotel
+80,"No.139 Section 2, Zhongshan North Road, Zhongshan District, Taipei, Taiwan ",25.06182,121.52307,K Hotel Taipei II
+81,"No.7, Sec 2, Jianguo North Road, Taipei 10487, Taiwan ",25.05272,121.53703,Capital Hotel
+82,"No.147 Fuxing North Road, Songshan District, Taipei 10547, Taiwan ",25.05371,121.54423,THE Tango Taipei FuHsing
+83,"No.52 Section 1, Jianguo North Road, Taipei 104, Taiwan ",25.04794,121.53625,Beauty Hotels Taipei - Hsuanmei Boutique
+84,"No.102 Wenlin Road, Shihlin District, Taipei 111, Taiwan (Formerly Grandee Taipei Hotel)",25.087833,121.52617,Les Suites Taipei Grandee
+85,"No.266 Section1, Jianguo South Road, Taipei 106, Taiwan ",25.03664,121.53743,"Fullon Hotel Taipei, Central"
+86,"No.31 Sec 1, Zhongxiao East Road, Taipei 100, Taiwan ",25.044554,121.52551,Hotel Cozzi Zhongxiao
+87,"No.111, Sec. 1, Chongqing South Road, Taipei 100, Taiwan ",25.042814,121.51341,Beauty Hotels Taipei - Hotel B7
+88,"No.156 Section 4, Nanjing East Road, Songshan District, Taipei, Taiwan (Formerly Donghwa Hotel)",25.05148,121.55626,Capital Hotel Nanjing
+89,"No.15 Lane 83, Section1, Chungshan North Road, Taipei 10446, Taiwan ",25.04994,121.52433,THE Tango Taipei LinSen
+90,"7F, No. 72, Sec. 2, Wuchang Street, Taipei 108, Taiwan (Formerly Go Sleep Wuchang)",25.04493,121.50623,Design Ximen Hotel
+91,"No.80 Linsen North Road, Zhongshan District, Taipei 10441, Taiwan ",25.049465,121.524605,THE Tango Taipei ChangAn
+92,"No.52, Ln. 4, Dunhua N. Rd., Songshan Dist.,, Taipei 105, Taiwan ",25.050182,121.54489,Simple+ Hotel
+93,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+94,"No. 83, Sec. 4, Roosevelt Road, Da'an District, Taipei 10673, Taiwan (Formerly Leader Hotel)",25.135916,121.56369,Just Sleep @ NTU
+95,"No.9 Section 2, Fusing South Road, Taipei 10665, Taiwan ",25.032745,121.54373,Fu Hau Hotel
+96,"No.566 Section 2, Ti-Ding Blvd.,(No.3 Exit at MRT Jiangnanroad Station), Taipei, Taiwan ",25.088037,121.65958,S-aura Hotel
+97,"No.63 Wenquan Road, Beitou District, Taipei, Taiwan ",25.13509,121.50468,Aqua Bella Hotel
+98,"No.168 Changchun Road, Taipei, Taiwan ",25.054686,121.53336,Leofoo Hotel
+99,"No.8 Section 3, Jhongsiao Eest Road, Daan District, Taipei 106, Taiwan ",25.04217,121.53356,KDM Hotel
+100,"No.38-1 Qiangang Street, Shilin District, Taipei 111, Taiwan ",25.084833,121.52116,Beauty Hotels Taipei - Starbeauty Resort
+101,"No.315 Fusing North Road, Songshan District, Taipei 105, Taiwan ",25.059078,121.54442,Taipei Fullerton Hotel Fuxing North
+102,"No.36 Hanzhong Street, Wanhua District, Taipei, Taiwan ",25.04446,121.50742,Rainbow Hotel
+103,"3/F, No.46, Huayin Street, Datong District, Taipei 103, Taiwan ",25.05026,121.51528,Hotel Puri - Taipei Station Branch
+104,"No.1 Yinguang Lane, Wenquan Road, Peitou District, Taipei 111243, Taiwan (Formerly Lotus Spa Hot Spring Hotel)",25.1366,121.51303,Nine Plus Spa Hot Spring Hotel
+105,"No.41 Section 1, Kaifeng Street, Zhongzheng District, Taipei 100, Taiwan ",25.046059,121.51251,Orange Hotel - Kaifeng
+106,"2F No.18-1 Lane 18, Nanjing West Road, Taipei 103, Taiwan ",25.051268,121.52011,Guest House Taiwanmex
+107,"No.1 Lane 11,Section 2, Zhong Shan North Road, Zhongshan District, Taipei, Taiwan ",25.05276,121.52334,K Hotel (Taipei I)
+108,"No.8, Lane 48, Fude Road, Shilin District, Taipei 111, Taiwan ",25.092455,121.5232,Papersun Apartment
+109,"No.32 Section 5, Nanking East Road, Taipei 105, Taiwan ",25.051456,121.55908,Fullerton Hotel East Taipei
+110,"No.22 Guanqian Road, Zhongzheng District, Taipei 100, Taiwan ",25.045153,121.514984,Orange Hotel - Guanqian
+111,"No.82 Section 1, Zhonghua Road, Wanhua District, Taipei 108, Taiwan ",25.045736,121.508385,Wonstar Hotel Zhonghua
+112,"No.306 Sung Chiang Road, Taipei, Taiwan ",25.060333,121.53267,Golden China Hotel
+113,"No.237 Gerzhi Road, Yangmingshan, Beitou District, Taipei 111, Taiwan ",25.1435,121.54884,The Landis Resort Yangmingshan
+114,"No.119 Kunming Street, Taipei 108, Taiwan ",25.041664,121.50465,Cho Hotel
+115,"No.5 Lane 90, Sung Chiang Road, Zhongshan District, Taipei, Taiwan ",25.05058,121.53194,Linkworld Hotel
+116,"No.166-2, Section 1, Zhonghua Road, Wanhua District, Taipei 10846, Taiwan ",25.041298,121.50758,Orange Hotel Ximen
+117,"No.3 Yijiang Street, Jhongshan District, Taipei 104, Taiwan (Formerly Viscount Hotel)",25.050962,121.53149,Forward Hotel - Songjiang
+118,"B1-F12, No.8 Minsheng West Road, Chung Shan, Taipei 104, Taiwan ",25.05783,121.52226,Shin Shih Hotel
+119,"No.477 Linsen North Road, Jhongshan District, Taipei 104, Taiwan ",25.06112,121.52572,Hotel Sense
+120,"No.139 Linsen North Road, Zhongshan District, Taipei 100, Taiwan ",25.05128,121.52521,"Orange Hotel-Linsen, Taipei"
+121,"No.432 Changchun Road, Taipei, Taiwan ",25.05455,121.54488,Delight Hotel
+122,"No.67 Section 6, Shimin Road, Sungshan District, Taipei, Taiwan (Formerly Hope City Sung Shang Hotel)",25.049913,121.57433,Charming City Hotel Sungshan
+123,"6F., No.62 Changchun Road, Zhongshan District, Taipei 104, Taiwan ",25.05493,121.52626,Beauty Hotels Taipei - Hotel Bnight
+124,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+125,"No.107 Xining South Road, Wanhua District, Taipei 10843, Taiwan ",25.045053,121.50671,inhouse Hotel
+126,"1F, No.209, Section 1, Civic Blvd, Datong District, Taipei, Taiwan ",25.04879,121.51857,Master Inn
+127,"No.105 Xining South Road, Wanhua District, Taipei, Taiwan ",25.045166,121.50716,Wonstar Hotel - Ximen
+128,"No.106 Fuguo Road, Shihlin District, Taipei 111, Taiwan ",25.102415,121.52148,Reedon Boutique Hotel
+129,"3F No.72 section 1, Chung-Hsaio West Road, Taipei, Taiwan ",25.04679,121.51408,Say Love Hotel
+130,"8F No.144 Section 1, Zhonghua Road, Taipei 108, Taiwan ",25.04335,121.50813,Airline Inn Taipei
+131,"No.25 Section 2, Xinsheng North Road, Zhongshan District, Taipei 104, Taiwan ",25.053652,121.52775,Beauty Hotels Taipei - Hotel Bchic
+132,"No.46 Lane 500 Yonggong Road, Shih-lin, Taipei 111, Taiwan ",25.132126,121.56892,Silk Valley Resort
+133,"No.23 Section 2, Hankou Street, Wanhua District, Taipei, Taiwan ",25.04549,121.50795,East Dragon Hotel
+134,"No.367 Section 2, Bade Road, Songshan District, Taipei, Taiwan ",25.048038,121.54469,Hotel B Taipei
+135,"No.8 Xiangyang Road, Zhongzheng District, Taipei, Taiwan ",25.04347,121.51346,Look Hotel
+136,"No.6 Kangding Road, Wanhua District, Taipei, Taiwan ",25.04585,121.50323,Fu Chang Hotel
+137,"No.369 Linsen North Road, Zhongshan District, Taipei 104, Taiwan ",25.05774,121.52554,Gloria Prince Hotel Taipei
+138,"8-11 Floor, No.1 Nanking West Road, Taipei, Taiwan ",25.0524,121.52213,Royal Inn Nanxi
+139,"No.23 Sanchong Road, Nangang District, Taipei, Taiwan ",25.059166,121.61411,Taipei Forward Hotel Nangang Branch
+140,"2F,No.197,Sec. 2,Yanping North Road, Taipei 103, Taiwan ",25.05931,121.51144,If Inn
+141,"No.299 Zhifu Road, Zhongshan District, Taipei 104, Taiwan ",25.0809,121.56158,Mulan Motel Taipei
+142,"No.187 Chang Chun Road, Taipei 187, Taiwan ",25.05471,121.53775,Waikoloa Hotel
+143,"No.106 Section 2, Wuchang Street, Wanhua District, Taipei 108, Taiwan ",25.04518,121.50514,Beauty Hotels Taipei - Hotel B6
+144,"No.137 Shing'an Street, Songshan District, Taipei 0, Taiwan ",25.05619,121.54471,Tai Hope Hotel
+145,"No.168 Jingye Fourth Road, Taipei 104, Taiwan ",25.084333,121.5585,Grand Victoria Hotel
+146,"No.98 Sec. 3, Roosevelt Rd, Zhongzheng District, Taipei, Taiwan ",25.02161,121.52702,Li Yuan Hotel
+147,"No.75 Jingye Second Road, Jhongshan District, Taipei, Taiwan ",25.082333,121.55423,Sato Castle Motel
+148,"No.238 Sec. 2 Dunhua South Road, Da'an District, Taipei, Taiwan ",25.02095,121.54854,K Hotel Dunnan
+149,"No.86, Sec. 1, Chongqing S. Rd., Zhongzheng District, Taipei, Taiwan ",25.04307,121.5132,Chaiin Hotel - Tzung Tung Fu
+150,"No.288 Zhifu Road, Zhongshan District, Taipei, Taiwan (Formerly Golden Palace Hotel)",25.08067,121.56157,Capital Hotel Dazhi
+151,"No.251 Songjiang Road, Zhongshan District, Taipei, Taiwan ",25.059362,121.53345,K Hotel Songjiang
+152,"No.123 Lecyun Third Road, Jhongshan District, Taipei, Taiwan ",25.083067,121.55492,ISIS Taipei Boutique Hotel
+153,"1 Area, No.118, Section 1, Nanking East Road, Taipei, Taiwan ",25.051916,121.52671,Emperor Hotel
+154,"No.9 Section 1, Min-Chuan East Road, Taipei 104, Taiwan ",25.062944,121.52334,Sunroute Hotel
+155,"No.213 Section 4, Pateh Road, Songshan District, Taipei 105, Taiwan (Formerly The Richforest Hotel)",25.04886,121.56414,Lealea Garden Hotels-Taipei
+156,"No.53 Sec. 2, Kaifeng Street, Wanhua District, Taipei, Taiwan ",25.046928,121.50549,W5 Best Hotel
+157,"No.178 Section 1 Zhong-Hua Road, Taipei 108, Taiwan ",25.039093,121.50703,Rich Garden Hotel
+158,"No.140, Sec. 1, Jianguo N. Road, Taipei, Taiwan ",25.05104,121.53657,Green World Hotel Jian Pei Suites
+159,"No.73 Section 1, Chongqing North Road, Taipei 10350, Taiwan ",25.05225,121.51406,New Continental Hotel
+160,"3F. No.235, Sec4,ZhongXiao E.Rd, Taipei 106, Taiwan ",25.04152,121.55377,RF Hotel
+161,"3F., No.30 Xining South Road, Wanhua District, Taipei 10842, Taiwan ",25.04586,121.50682,Muzik Hotel - Xining
+162,"No.52 Section1 Changan East Road, Taipei, Taiwan ",25.048363,121.5279,Charming Castle Hotel
+163,"No.11 Jingye 3rd Road, Zhongshan District, Taipei, Taiwan ",25.083551,121.556175,Wego Boutique Hotel-Dazhi
+164,"No.1, Aly 34, Ln.123, Sec. 6, Minquan E. Rd, Taipei 114, Taiwan (Formerly Fushin hotel)",25.070543,121.5929,Hotel June Taipei
+165,"No.59 Chongyang Road, Nangang District, Taipei 115, Taiwan ",25.05564,121.59688,Gallery Hotel
+166,"No.19 Hankow Street, Section 1, Taipei 100, Taiwan ",25.04518,121.51402,Hotel Flowers
+167,"No.24 Changchun Road, Zhongshan District, Taipei, Taiwan ",25.05,121.52,Friends Yu-Yu Hotel
+168,"4F, No.197, Section 2, Yanping North Road, Datong District, Taipei 103, Taiwan (Formerly Paihsuan Hotel)",25.05931,121.51144,V-one Vogue Hotel
+169,"No.141 Kunming Street, Taipei, Taiwan ",25.041857,121.50459,New World Hotel
+170,"No.168 Changhua Road, Section 1, Wanhua District, Taipei 108, Taiwan ",25.04053,121.50776,Burgary Hotel
+171,"No.462 Section 5, Chengkung Road, Neihu District, Taipei, Taiwan ",25.07353,121.6063,City Lake Hotel Taipei
+172,"No.64 Taiyuan Road, Datong District, Taipei, Taiwan ",25.053194,121.51598,Lan Ting Business Hotel
+173,"No.24 Lane 170 Dehuei Street, Jhongshan District, Taipei 104, Taiwan (Formerly Aristocrat Hotel)",25.06506,121.53179,The Metro Hotel
+174,"No.12 Pei-Ping East Road, Zhongzheng District, Taipei, Taiwan ",25.04619,121.52452,Welcome Hotel
+175,"No.14, Lane 56, Section 3, Xinsheng North Road, Zhongshan District, Taipei 104, Taiwan ",25.06536,121.52685,Taipei Lotty Hotel
+176,"No.66 Nanking East Road, Section1, Taipei 104, Taiwan ",25.05207,121.52508,Taipei International Hotel
+177,"No.279 Chang Chun Road, Zhongshan, Taipei, Taiwan ",25.05475,121.5414,City Hotel
+178,"No.26, Lane 31 Shaoxing North Road, Zhongzheng District, Taipei, Taiwan ",25.04509,121.52619,Good Life Hotel
+179,"5F., No.10, Ln. 27, Chengdu Road, Ximending, Taipei 108, Taiwan ",25.043177,121.50675,Good 9 Stay Inn
+180,"No.37 Ln. 103, Sec. 1, Xinsheng South Road, Da'an District, Taipei, Taiwan ",25.04072,121.53594,Rose Boutique Hotel
+181,"No.17-3 Lane 77, Section 2, Chungshan North Road, Taipei 104, Taiwan (Formerly Golden Time Hotel)",25.057611,121.52377,Wish Hotel
+182,"No.98 Lin Sen North Road, Zhongshan District, Taipei 100, Taiwan ",25.05023,121.52483,Astar Hotel
+183,"No.163 Section 2, Nanjing East Road, Taipei 104, Taiwan ",25.05224,121.53597,MAI HOTEL-Nanjin E.Branch
+184,"No.23-1 Shuang Cheng Street, Zhongshan District, Taipei 104, Taiwan ",25.06586,121.52431,Friends Yo Lai Regency
+185,"No.15 Lane 105, Sec. 1, Zhongshan North Road, Taipei 10446, Taiwan ",25.050827,121.52359,Mai Hotel Zhongshan
+186,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+187,"No.16 Section 4, Pa-Teh Road, Taipei 101, Taiwan ",25.048435,121.55826,Charming Hotel
+188,"No.16, Sec. 4, Jhongshan N. Rd., Taipei 111, Taiwan ",25.079487,121.52441,Chientan Youth Activity Center
+189,"No.18 Lane 97, Sungjiang Road, Taipei, Taiwan ",25.050987,121.53436,Happiness Hotel
+190,"No.185 Sec.1, Daan Road, Daan District, Taipei 10691, Taiwan ",25.0361,121.54618,Swiio Hotel Daan
+191,"No.338 Fuxing N. Rd., Zhongshan District, Taipei 104, Taiwan ",25.059544,121.544,"Cityinn Hotel Plus - Fuxing N. Rd., Branch"
+192,"No.4 Section 1, Hankou Street, Jhongjheng District, Taipei, Taiwan ",25.04507,121.51472,Miyi Hotel
+193,"No.41 Kangding Road, Wanhua District, Taipei 108, Taiwan ",25.041658,121.50241,Ferrary Hotel
+194,"3F., No.246, Sec.2, Changan E. Rd., Taipei 10492, Taiwan ",25.04817,121.54311,Ark Hotel - Chang'an Fuxing
+195,"No.34 Huaining Street, Zhongzheng District, Taipei 10047, Taiwan ",25.045086,121.51407,Hotel Relax 3
+196,"5F., No.8, Nanyang St, Taipei 10047, Taiwan ",25.0452,121.51606,Morwing Hotel - Culture Vogue
+197,"No.7 Sec. 1, Chongqing South Road, Zhongzheng Dist., Taipei 10046, Taiwan ",25.0464,121.51337,Bouti Capsule Inn
+198,"No.8 Sec.3, Ren'ai Road, Daan District, Taipei 106, Taiwan ",25.03783,121.53358,Sonnien Hotel
+199,"No.57-1 Section 2, Zhongshan North Road, Taipei 10412, Taiwan ",25.055792,121.52299,amba Taipei Zhongshan
+200,"No.182, Guisui St., Datong Dist, Taipei 10346, Taiwan ",25.058065,121.51222,Jianshan Hotel
+201,"3F, No.36 Sec.1, Kai Fung Street, Zhongzheng District, Taipei 100, Taiwan ",25.04684,121.51434,Morwing Hotel - Fairy Tale
+202,"No.98 Yanchang Road, Xinyi District, Taipei 11072, Taiwan ",25.044977,121.5615,Eslite Hotel
+203,"No.56 Section 1, Da'an Road, Da'an District, Taipei 106, Taiwan ",25.04301,121.54606,Hotel Proverbs Taipei
+204,"No.359 Section 7, Zhongxiao East Road, Nangang District, Taipei 11561, Taiwan ",25.05251,121.60606,Courtyard Taipei
+205,"No.21 Sec.1, Chongqing South Road, Taipei, Taiwan ",25.04581,121.51337,Green World Station
+206,,,,
+207,"No. 199, Lequn 2nd Road, Taipei, Taiwan, Taipei 10462, Taiwan ",25.080334,121.55896,Taipei Marriott Hotel
+208,"1F, No. 219-2, Sec. 1, Fuxing S. Rd., Da'an District, Taipei 10666, Taiwan (Formerly Home Hotel - Da'an)",25.038988,121.54386,Home Hotel - Da'An
+209,"4F., No 124-2 Section 2, Wuchang Street, Wanhua District, Taipei, Taiwan ",25.04536,121.50377,Art'otel
+210,"No.39, Sec.1, Chongqing S. Rd., Taipei, Taiwan ",25.04528,121.51336,Poshpacker Hotel
+211,"No.16 Section 3, Nanjing East Road, Zhongshan District, Taipei 10489, Taiwan ",25.05179,121.53758,U Hotel Taipei - Nanjing East Road
+212,"10F, No.36 Xining South Road, Taipei 10842, Taiwan ",25.045687,121.50652,Click Hotel
+213,"No.13-1 Ln.125, Sec.1 Xiyuan Road, Wanhua District, Taipei 108, Taiwan ",25.03759,121.49982,Longshan Inn
+214,"No.100 Dunhua North Road, Songshan Dist, Taipei 10547, Taiwan (Formerly Asia World Plaza, Holiday Inn Asia World)",25.053047,121.54675,Sunworld Dynasty Hotel Taipei
+215,"No.181 Section 2, ChungShan North Road, Zhongshan District, Taipei 104, Taiwan ",25.06323,121.52265,Sansui Hotel
+216,"1-7F, No.60, Sec.1, Zhongqing S. Road, Taipei 100, Taiwan ",25.04382,121.5131,Via Hotel Premium
+217,"No.3 Sec 1, Chengde Road, Taipei 103, Taiwan ",25.049334,121.51717,Palais de Chine Hotel
+218,"No.16 Lane 107 Linshen North Road, Zhongshan District, Taipei 104, Taiwan ",25.05015,121.52573,Liz Hotel
+219,"19F, No. 50, Section 1, Zhongxiao West Road, Taipei, Taiwan ",25.04651,121.51589,Taming Business Hotel
+220,"No.18, Lane 77, Section 2, Chungshan North Road, Taipei, Taiwan ",25.05737,121.52461,Green Peak Hotel
+221,"No.88 Han Kou Street, Taipei 094, Taiwan ",25.045101,121.511955,Chair Man Hotel
+222,"No.353 Chang Chun Road, Taipei 105, Taiwan ",25.05453,121.54558,Howard Garden Suites
+223,"No.275 Section 1, Fuhsing South Road, Taipei, Taiwan ",25.035746,121.54382,Hope City Fushing Hotel
+224,"No.173-1 Chengdu Road, Taipei, Taiwan ",25.044178,121.50185,New Riverview Suites
+225,"No.4 Xiushan Street, Zhongzheng District, Taipei 100, Taiwan ",25.043056,121.50872,Hotel Midtown Richardson
+226,"No.33 Sec. 1 Kaifeng Street, Zhongzheng District, Taipei 10044, Taiwan ",25.04606,121.51292,Diary of Taipei - Taipei Station Branch
+227,"No.170-172 HanZhong Street,, Taipei 108, Taiwan ",25.041002,121.5064,Ta Sun Hotel
+228,"3F No.1, Lane126, Section 1, Fuxing South Road, Taipei 106, Taiwan ",25.043245,121.54313,Via Hotel Zhongxiao
+229,"No. 1 Shuangcheng St., Zhongshan Dist., Taipei 104, Taiwan ",25.062925,121.52455,Aloft Taipei Zhongshan
+230,"14F, No.87, Section 4, Zhongxiao East Road, Taipei 106, Taiwan ",25.04175,121.54762,Eastin Taipei Hotel
+231,"No.30 Section 3, Hsinsheng South Road, Taipei 10660, Taiwan ",25.02314,121.53443,Howard Civil Service International House
+232,"No.5-1 Huaining Street, Zhongzheng District, Taipei 100, Taiwan ",25.04636,121.5143,Royal Hotel
+233,"No. 49, Xining N. Rd.Datong Dist., Taipei 103, Taiwan ",25.05406,121.50888,Changhua Hotel
+234,"No.55 Section 2, Zhishan Road, Taipei 11143, Taiwan ",25.097725,121.54504,Yusense Hotel
+235,"No.72 Emei Street, Wanhua District, Taipei 108, Taiwan ",25.04404,121.50438,Ximen Citizen Hotel Main Building
+236,"No.247 Guangzhou Street, Wanhua District, Taipei 10853, Taiwan ",25.03683,121.49731,Hotel Banka
+237,"No.4, Lane 23, Jinzhou Street, Zhongshan District, Taipei, Taiwan ",25.06065,121.5252,VIP Hotel
+238,"No.10 Jinzhou Street, Zhongshan District, Taipei 104, Taiwan ",25.06035,121.5238,Gwo Shiuan Hotel
+239,"No.127, Sec. 7, Jhongshan N. Rd., Shihlin District, Taipei 11156, Taiwan ",25.123043,121.53206,Mellow Fields Hotel
+240,"No.55-1 Section 4, Nanking East Road, Songshan District, Taipei 104, Taiwan (Formerly Hondo Hotel)",25.05185,121.55239,Capital Hotel Arena
+241,"6F., No.8 Guanqian Road, Zhongzheng District, Taipei 100, Taiwan ",25.045153,121.514984,Smile Inn
+242,"12F, No.219 Section 2, Chang-An East Road, Songshan District, Taipei 105, Taiwan (Formerly Onestar Chang-An Hotel)",25.04834,121.54483,Taipei URTRIP Hotel
+243,"No.658 Sec. 4, Bade Road, Songshan District, Taipei 10566, Taiwan ",25.04985,121.57565,Capital Hotel Song Shan
+244,"12F, No.90, Section 1, Zhonghua Road, Wanhua District, Taipei 108, Taiwan ",25.044687,121.50848,Diary of Ximen Hotel I
+245,"12F, No.52 Hanzhong Street, Wanhua District, Taipei, Taiwan ",25.043564,121.5072,Diary of Taipei Hotel Wanguo
+246,"5F, No.165-1, Scetion3, Chengteh Road, Datong District, Taipei, Taiwan ",25.0682,121.51852,Bentley Park Suites
+247,"3F., No.282 Linsen North Road, Taipei 10450, Taiwan ",25.055502,121.52533,E Hotel
+248,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+249,"No.211 Section 1, Shimin Avenue, Zhongzheng District, Taipei, Taiwan ",25.04722,121.513626,Pig' Home ('minsu')
+250,"No.38 Chang Chun Road, Taipei, Taiwan ",25.05496,121.52496,Kyoto Hotel
+251,"6F., No.70 Xining South Road, Taipei 108, Taiwan ",25.043509,121.50588,ECFA Hotel Wan Nian
+252,"3F, No.1 Lane 126, Section 1, Fuxing South Road, Da'an District, Taipei, Taiwan ",25.043,121.54334,Urban Chic Inn
+253,"No.512 Section 2, Chenggong Road, Neihu District, Taipei 114, Taiwan ",25.0741,121.58973,Yijia - La Maison Hotel
+254,"10F, No,71, Zhongshan N. Rd. Sec. 2, Zhongshan District, Taipei 10046, Taiwan ",25.05728,121.52294,Lihao Hotel
+255,"No.7 Longquan Street, Da'an District, Taipei 106, Taiwan ",25.023554,121.52934,inhouse Library
+256,"No.4, Aly. 5, Ln.147, Sec.3, Xinyi Road, Taipei 10658, Taiwan ",25.03383,121.54232,NiHao Cafe Hotel
+257,"No.232 Zhong Zheng Road, Shilin District, Taipei 111, Taiwan ",25.09535,121.5258,Taipei Metro Stay - Shihlin Stay
+258,,,,
+259,"9F.-1, No.36 Xining South Road, Taipei 108, Taiwan ",25.04556,121.50673,Go Sleep Hotel - Xining
+260,"No.1 Huaining Street, Zhongzheng District, Taipei, Taiwan ",25.04644,121.5142,Keymans Hotel
+261,"No.126-128, Section 5, Xinyi Road, Xinyi DIstrict, Taipei, Taiwan ",25.03251,121.56926,Jasper Villa Xinyi
+262,"12F, No.37 Kaifeng Street, Zhongzheng Dist., Taipei 100, Taiwan ",25.046127,121.51266,Muiu Inn
+263,"No.1-2 Zhongshan Road, Beitou District, Taipei 112, Taiwan ",25.137383,121.50881,Pink Lotus Hotel
+264,"No.93 Section 2, Chienkuo North Road, Taipei 104, Taiwan (Formerly Shang Hao Hotel)",25.05874,121.53717,RF Pretty Hotel
+265,"No. 7, Sec 1, Hushan Road, Yangmingshan, Taipei, Taiwan ",25.15253,121.54794,International Hotel
+266,"No.172 Section 2, Chongqing North Road, Datong District, Taipei 10357, Taiwan ",25.05934,121.5134,Taipei City Hotel
+267,"6F., No.165 Nanjing West Road, Datong District, Taipei 103, Taiwan ",25.05406,121.51295,191 Hotel
+268,"No.419 Linsen North Road, Taipei, Taiwan ",25.060413,121.52578,Wego Boutique Hotel - Linsen
+269,"10F., No.63 Wenhua Road, Danshui District, Taipei 251, Taiwan ",25.172915,121.43798,Danshui Blue River Hotel
+270,,,,
+271,"No.238 Guangming Road, Beitou District, Taipei, Taiwan ",25.136095,121.50571,Rishengsheng Xinxiuge
+272,"No.55 Zhi Shan San Duan, Shi Lin District, Taipei, Taiwan ",25.11314,121.56526,Tsubaki Taipei
+273,"No.212 Nanking East Road, Section 5, Taipei, Taiwan ",25.05128,121.56515,World Trade Hotel
+274,,,,
+275,"No.40 Zhong He Street, Taipei 112, Taiwan ",25.13821,121.5026,E-JIA Service Apartment
+276,"1F, No.11, Alley 12, Lane 84, Sec 3, Roosevelt Road, Taipei 100, Taiwan ",25.0215,121.52565,Green Hostel on Shida
+277,"Rm. 8, 5F., No.203, Sec. 1, Civic Blvd., Datong Dist., Taipei City, Taiwan, Taipei, Taiwan ",25.04868,121.51761,I Station-Taipei Main Station
+278,"No.143-6 Section 1 Hsing Sheng South Road, Taipei, Taiwan ",25.03588,121.53287,Friends Yo Tai Regency
+279,"No. 199, Lequn 2nd Road, Taipei, Taiwan, Taipei 10462, Taiwan ",25.080334,121.55896,Taipei Marriott Hotel
+280,"No.9 Lane199, Dunhwa North Road, Taipei 105, Taiwan ",25.056631,121.55222,Forte Green Garden Apartments
+281,"No.8 Ln.27, Chengdu Road, Wanhua District, Taipei 10845, Taiwan ",25.042578,121.50706,inhouse Boutique
+282,"No.36 Nung An Street, Taipei, Taiwan (Formerly Vienna Hotel)",25.06482,121.52705,Unite Hotel
+283,"No.62 Section 1, Chongcing North Road, Datong District, Taipei 103, Taiwan ",25.05207,121.51392,Fortune Hiya Hotel
+284,"No.2 Min Chuan East Road, Section 3, Taipei 10464, Taiwan ",25.05784,121.53752,Hotel Taipei Miramar
+285,"No.57 Tien Chin Street, Zhongshan District, Taipei, Taiwan ",25.051064,121.52333,Tien Chin Hotel
+286,"1F, No. 31, Fushun Street, Taipei 104, Taiwan ",25.063555,121.52007,Inn Cube- Minquan
+287,"No.39, Section 1, Zhonghua Road, Taipei 10042, Taiwan ",25.045416,121.50953,Taisugar Hotel Taipei
+288,"No.112 Xining South Road, Wanhua District, Taipei 108, Taiwan ",25.04156,121.506,Neijiang Hotel
+289,"No.14 The Hwei Street, Taipei, Taiwan ",25.06672,121.52384,Empress Hotel
+290,"6F., No.151 Nanjing West Road, Datong District, Taipei 103, Taiwan ",25.0541,121.51359,New Stay Inn II
+291,"No.220 Kuang Ming Road, Peitou District, Taipei, Taiwan ",25.13637,121.50452,Chyuan Du Spring Resort
+292,"No.295 Sec. 5, Zhongxiao East Road, Xinyi District, Taipei, Taiwan ",25.04101,121.57234,Tango House Motel
+293,"2F., No.286 Linsen North Road, Taipei, Taiwan ",25.0557,121.52548,King Garden Business Hotel
+294,"No.36 Lane 106 Ren Ai Rd, Aodi, Gongliao Township, Taipei, Taiwan (Formerly Joan Resort)",25.05328,121.92495,Marina Bay Resort
+295,"No.5 Shuangcheng Street, Zhongshan District, Taipei, Taiwan ",25.065413,121.524284,Good Life Hotel (Shuangcheng Street)
+296,"3F, No.468, Section 4, Xinyi Road, Xinyi District, Taipei 110, Taiwan ",25.03298,121.55913,AT Boutique Hotel
+297,"No.28, Lane 420, Section 5, Cheng Gong Road, Neihu District, Taipei, Taiwan ",25.07493,121.60855,Kang Ning Service Apartment
+298,"No.2-2 Lane 27, Section 2, Chung Shan North Road, Taipei, Taiwan ",25.05319,121.52322,Dahshin Hotel
+299,"No.33 Yijiang Street, Zhongshan District, Taipei 105, Taiwan ",25.053509,121.53164,Eastern Beauty Hotel
+300,"No.16-1 Siyuan Street, Zhongzheng District, Taipei, Taiwan ",25.01417,121.53011,Hsiu Chi House
+301,"8F., No.76 Kunming Street, Wanhua District, Taipei 886, Taiwan ",25.045715,121.50545,E House Hotel Ximending
+302,"1-1F, 8 Nong-an Street, Jhongshan District, Taipei, Taiwan ",25.06482,121.52344,KT Star
+303,"No.30-148-20 Yongji Road, Xinyi District, Taipei 110, Taiwan ",25.042774,121.567696,EnRich House
+304,"No.132 Kunming Street, Wanhua District, Taipei, Taiwan ",25.04319,121.50479,Taipei York
+305,,,,
+306,"No.36 Han Kou Street, Taipei, Taiwan ",25.04509,121.51383,Flowers Hotel Branch Wing
+307,"No.155 Wenquan Road, Beitou District, Taipei 122, Taiwan ",25.1363,121.51217,Maple Garden Landis Resort Beitou
+308,"3F, No.51 Hengyang Road, Zhongzheng District, Taipei, Taiwan ",25.04228,121.511505,San Yon Hotel
+309,"3F 131 Hanzhong Street Ximending District, Taipei 108, Taiwan ",25.044981,121.50774,One2Stay Inn
+310,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+311,"No.10 Dongmen Street, Taipei 22055, Taiwan ",25.009,121.45789,Forward Suites II
+312,"No.5 Ln.31 Sec.1, Nanchang Road, Zhongzheng District, Taipei 100, Taiwan ",25.03197,121.51727,Wing Hotel Taipei
+313,"2-4F,No.27,29,31, Jinjhou St., Jhongshan District, Taipei City Longitude/Latitude (25.05939,121.523495), Taipei, Taiwan ",25.06039,121.52528,Wego Boutique Hotel
+314,"No.1, Lane126, Sec.1, Fuxing South Road, Taipei, Taiwan ",25.04309,121.54335,Suite-apartment Taipei
+315,"5F., No.95-1, Songjiang Rd., Taipei 104, Taiwan ",25.050898,121.533325,Free An Hotel
+316,"No.27 Xiaonan Street Shilin District, Taipei 111, Taiwan ",25.088737,121.52535,Grand Hotel
+317,,,,
+318,,,,
+319,"B2-F7, No.176 Section 4, Parteh Road, Songshan District, Taipei, Taiwan ",25.04857,121.56343,Golden Garden Hotel
+320,"No.9 Dapu Street, Wanhua District, Taipei 10862, Taiwan ",25.03275,121.50419,Li Han Hotel
+321,"No.163, 115 Alley, Wen-Hua 3rd. Road, Taipei, Taiwan ",25.140104,121.49856,Oh Ya Boutique Motel (Linkou)
+322,"13F, No.197 Section 4, Chung Hsiao East Road, Daan District, Taipei, Taiwan ",25.04157,121.55147,Friends Hotel-Yo Tong Regency
+323,"No.69-13 Section 1, Yuanping North Road, Datong District, Taipei 103, Taiwan ",25.05132,121.51191,Dream House - Yuanping North Road
+324,"3F, No.71, Section 2, Zhongshan North Road, Zhongshan District, Taipei 104, Taiwan ",25.05728,121.52305,Beauty Hotels Taipei - Hotel Bstay
+325,,,,
+326,,,,
+327,"No.138 Boai Road, Taipei, Taiwan ",25.04286,121.51151,Dream Home
+328,"No.180-196 Chung Cheng Road, Section 2, Shin Lin District, Taipei, Taiwan ",25.11653,121.53398,Howard Jasper Villa Taipei
+329,"135 Alley 13, Chung Shan N Rd, Sec 1, Taipei, Taiwan ",25.04857,121.52114,Prince Hotel
+330,"No.385 Hsin-Yi Road, Section 4, Sinyi Road Sinyi District, Taipei 110, Taiwan ",25.03314,121.55813,Royal Best Suites
+331,,,,
+332,"No.81,83 Chang'an West Road Datong District, Taipei, Taiwan ",25.05098,121.51658,Senator Hotel
+333,"No.10 Lane 107, Linsen North Road, Taipei 104, Taiwan ",25.0502,121.52546,Taipei Hotel New Moon
+334,"No. 225 Hsin Yi Road Section 4, Taipei, Taiwan ",25.03328,121.55282,Unic
+335,,,,
+336,"No.12, Lane 21, Sec 2, Chung Cheng Road, Taipei, Taiwan ",25.10872,121.53028,Noble Hotel
+337,"No.485 Songjiang Road, Taipei 104, Taiwan ",25.0672,121.53338,Green World Hotel Song Jiang
+338,"11F., No.89 Kangding Road, Wanhua District, Taipei 10848, Taiwan ",25.039883,121.501976,Ti Hwa Hotel
+339,"1F, No.21 Wuyuan Road, Zhongshan District, Taipei 103, Taiwan ",25.056707,121.51728,Central Taipei Serviced Apartment
+340,"No.6 JinSi Street, Taipei, Taiwan (Formerly Bailee Hotel)",25.06034,121.52196,Kent Hotel
+341,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+342,,,,
+343,"No.63-1 Xining South Road, Wanhua District, Taipei 108, Taiwan ",25.04632,121.50706,Rose Boutique Hotel Taipei - Ximen
+344,"No.299 Lequn 2nd Road, Zhongshan District, Taipei 104, Taiwan ",25.079975,121.56104,istaytion-Rome Holiday Station
+345,"2-4F, No.159 Hsining South Road, Taipei, Taiwan ",25.04776,121.53185,King National Hotel
+346,"18F 201 Section 1 Civic Boulevard Datong District Taipei, Taipei 103, Taiwan ",25.04882,121.516716,Taipei I-staytion Service Apartment I-Station
+347,"No.2, Lane 42, Section 2, Kaifeng Street, Taipei, Taiwan ",25.04618,121.50761,Paiyueh Hotel
+348,"No.28 Section 2 Chengde Road, Datong District | Datong District, Taipei 103, Taiwan ",25.05571,121.51796,T.O. Hotel
+349,"2F, No. 23, Sec.1, Zhongxiao West Road, Zhongzheng Dist., Taipei 100, Taiwan ",25.04602,121.51895,Mini Inn
+350,"No.94, Sec. 1, Chongqing South Road, Taipei 100, Taiwan ",25.04292,121.51303,Beauty Hotels Taipei - Hotel B7 Journey
+351,"No.77 Section 1, HuenHo South Road, Taipei, Taiwan ",25.044619,121.50146,Hotel Riverview Taipei
+352,"2F., No.9, Lane 259 Linsen North Road, Zhongshan District, Taipei 10450, Taiwan ",25.05434,121.52606,Beauty Hotels Taipei - Hotel Bfun
+353,"No.15-2, Sec. 2, Keelung Rd, Taipei 110, Taiwan ",25.02918,121.55725,HolyPro Boutique Hotel
+354,"10F, No.79 Kunming Street, Taipei 108, Taiwan ",25.042864,121.50488,ECFA Hotel Kunming
+355,"No.673 Linsen North Road, Zhongshan District, Taipei 104, Taiwan ",25.06817,121.52578,Hotel Prima Casa
+356,"No.135 Chengdu Rd, Ximending, Taipei, Taiwan ",25.043367,121.50346,ECFA Hotel Ximen
+357,"No.11 Lane Baodao Sec.3 Xinwu Road, Wulai, Taipei 231, Taiwan ",25.04776,121.53185,La Villa Hotels and Resorts
+358,"Guangfu South Road Section, Taipei, Taiwan ",25.03541,121.55745,Taipei House
+359,"No.11 Section1, Ho-Ping West Road, Zhongzheng District, Taipei, Taiwan ",25.027012,121.52142,Friends Hotel-Yo Xing Regency
+360,"11F, No.209, Section 4, Jhongsiao East Road, Da-an District, Taipei, Taiwan ",25.04156,121.55201,Eastern Star Hotel
+361,"No.101 Chengdu Road, Wanhua District, Taipei 108, Taiwan ",25.043156,121.50433,ECFA Hotel - Chengdu
+362,,,,
+363,"No. 80 Emei St, Wanhua District, Taipei, Taiwan ",25.0441,121.50411,Red Cabin Inn (hunglingke hotel)
+364,"7F, No.142 Kummim Street, Taipei 108, Taiwan ",25.04256,121.50474,King Shi Hotel
+365,"No.3 Huayin Street, Zhongshan District, Taipei 103, Taiwan ",25.04897,121.52069,Rose Boutique Hotel - Taipei Station
+366,"No. 55 Min Quan West Road, Taipei, Taiwan ",25.06294,121.5204,Friends Yo Chun Regency
+367,"No.24 Xining South Road | Wanhua District, Taipei, Taiwan ",25.04609,121.5068,Paradise Hotel
+368,"No.325 Section1, Neihu Road, Neihu District, Taipei, Taiwan ",25.08218,121.56805,Elegance Hotel
+369,"2F, No.147, Sec.1, Heping East Road, Daan District, Taipei, Taiwan ",25.0266,121.53082,Good More Hotel - Shida
+370,"No.9 Peitou Road, Section 2, Peitou District, Taipei 112, Taiwan ",25.13076,121.49917,Chinatrust Executive Suites Peitou
+371,"No.2-1, Lane 74, Section 2, Hankou Street, Wanhua District, Taipei 108, Taiwan ",25.04571,121.50473,Cheers Hotel
+372,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+373,"No.23 Chengdu Road, Wanhua District, Taipei, Taiwan ",25.04314,121.504425,Tomorrow Hotel
+374,"No.110 Jhongpo North Road, Nangang District, Taipei 115, Taiwan ",25.04873,121.58018,Hau Shuang Hotel Taipei
+375,,,,
+376,"No.63 Section 2, Nanking East Road, Taipei, Taiwan ",25.052317,121.53027,First Hotel
+377,"No.128 Academia Road, Section 2, Nankang, Taipei 11529, Taiwan ",25.04201,121.61667,Academia Sinica Academic Activities Center
+378,"No.143 Chue Chun Road, Taipei 104, Taiwan ",25.053928,121.53905,Happy Family Hostel II
+379,"4F, No.68 Cheng Tu Road, Wanhuan District, Taipei, Taiwan ",25.04448,121.58669,Hansome Business Hotel Taipei
+380,"No.153 Songshan Road, Xinyi District, Taipei 110, Taiwan ",25.04653,121.57789,Wonstar Hotel (Songshan)
+381,,,,
+382,"No.30, Ln.18, Nanjing W. Rd., Datong District,, Taipei, Taiwan ",25.05059,121.52009,Purple Garden Hotel
+383,"1F, No.21 Section 1, Zhonghua Road, Zhongzheng District, Taipei, Taiwan ",25.04638,121.50991,Kin Regency Taipei
+384,"No.25 Quanyuan Road, Beitou District, Taipei 112, Taiwan ",25.13936,121.50602,Longbon Resort Beitou
+385,"No.177 Nanking West Road, Taipei, Taiwan ",25.05396,121.51266,Fortune Hotel Taiwan
+386,"4F., No.155, Xining S. Rd.,, Taipei 10844, Taiwan ",25.043531,121.50629,E-House 155 Hotel
+387,,,,
+388,,,,
+389,,,,
+390,,,,
+391,"No.103 Kangding Road, Taipei, Taiwan ",25.03962,121.50193,Kilin Hotel
+392,"No.7 Lane 21, Zhang street , Shilin District, Taipei 112, Taiwan (Formerly Tianmu Star Urban Living Serviced Apartment)",25.114,121.514336,Yangming Service Apartment
+393,"No.4, Aly. 36, Ln. 25, Kangding Road, Wanhua District, Taipei 108, Taiwan ",25.04362,121.50407,Lio Hotel Ximen
+394,"No.307 Fushing North Road, Songshan District, Taipei, Taiwan ",25.058435,121.5444,Regal Hotel
+395,"No.9 Yanping South Road, Jhongjheng District, Taipei 100, Taiwan ",25.046307,121.51086,Lio Hotel
+396,"No.21 Section 1, Chung Hwa Road, Zhongzheng District, Taipei 100, Taiwan ",25.04644,121.50982,Relite Hotel Taipei
+397,"No.1 Tianzhu Lane, Wenquan Road, Beitou District, Taipei, Taiwan ",25.13615,121.51046,Phoenix-Pavilion Hot Spring Hotel
+398,"No.10 Alley 123, Songjiang Road, Taipei, Taiwan ",25.05308,121.53316,Erin Hotel
+399,"3F, No.34 Nong'an Street, Jhongshan District, Taipei 104, Taiwan (Formerly Nongan Hotel)",25.0649,121.52682,Cai She Hotel
+400,"No.73 Section 3, Sinyi Road, Daan District, Taipei, Taiwan ",25.0336,121.53694,Dolamanco
+401,"No.246 Chang Chun Road, Zhongshan District, Taipei, Taiwan ",25.0547,121.53838,Meadow Hotel
+402,"No.55 Zhengyi South Road, Sanchong District, Taipei 241, Taiwan ",25.06051,121.49816,Smooth Hotel
+403,"No.213 Section 4, Pateh Road, Songshan District, Taipei 105, Taiwan (Formerly The Richforest Hotel)",25.04886,121.56414,Lealea Garden Hotels-Taipei
+404,"3F,No.30,Lane 183, Section 2, Zhongshan North Road, Zhongshan District, Taipei 104, Taiwan ",25.06367,121.52419,Dongfangdi Hotel
+405,"12F, No.197, Section 4, Zhongxiao East Road, Da-an District, Taipei, Taiwan ",25.041552,121.551605,Vendome Hotel Taipei
+406,"No.8 Lane 133, Linsen North Road, Zhongshan District, Taipei 10454, Taiwan ",25.051096,121.52517,Rose Hotel Linsen
+407,"No.283 Guang Ming Road, Peitou District, Taipei 112, Taiwan ",25.136951,121.511,Spa World Spring Resort
+408,"F1-7,No.4 Hanzhong Street,Wanhua District, Taipei 108, Taiwan ",25.04589,121.50792,Hongzhou Hotel
+409,"No.68 Yanping South Road, Zhongzheng District, Taipei 10042, Taiwan ",25.045052,121.51034,Roaders Hotel
+410,"No.1 Section 1, Chongqing South Road, Zhongzheng District, Taipei, Taiwan ",25.047144,121.5133,New May Flower Hotel
+411,"F1, No.57 Huayin Street, Datong District, Taipei 103, Taiwan ",25.04961,121.51866,Jing Zhan High Quality Fashion Accommodation
+412,"No.11 Alley 7, Lane 113, Section 3, Minsheng East Road, Taipei, Taiwan ",25.05847,121.54615,Mingsheng Serviced Apt.
+413,"No.458 Changchun Road, Taipei, Taiwan ",25.05446,121.5481,Ever Spring Hotel
+414,"No.76-1 Shin Sheng North Road, Section 3, Taipei, Taiwan ",25.0665,121.52748,Silken Hotel
+415,"No.122 Chongyang Road, Nan'gang District, Taipei, Taiwan ",25.057884,121.60535,King of France Palace Hotel
+416,"No.325, Sec. 5, Nanjing E. Rd, Taipei 105, Taiwan ",25.05142,121.56705,Alper Motel
+417,,,,
+418,,,,
+419,,,,
+420,"No.258 Guangming Road, Beitou District, Taipei 112, Taiwan ",25.1368,121.50934,Atami Hotel Taipei Onsen
+421,"No.250 Guangming Road, Beitou District, Taipei, Taiwan ",25.136095,121.50571,Broadway Hotspring Hotel
+422,,,,
+423,"No.8, Lane 108, Songjiang Road, Taipei, Taiwan ",25.05143,121.53197,Charming City YiJiang Serviced Apt.
+424,,,,
+425,,,,
+426,"No.192 Xizhang Road, Wanhua District, Taipei, Taiwan ",25.0299,121.50293,Crystal Hotel
+427,"No.121, Section 1, Yanping North Road, Datong District, Taipei, Taiwan (Formerly Silverville Hotel)",25.052877,121.51193,The Dealer Hotel
+428,,,,
+429,,,,
+430,,,,
+431,,,,
+432,,,,
+433,"12F, No. 52 Hanzhong Street, Taipei, Taiwan ",25.043629,121.507095,ECFA Hotel Wanguo
+434,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+435,,,,
+436,,,,
+437,,,,
+438,,,,
+439,,,,
+440,,,,
+441,,,,
+442,,,,
+443,,,,
+444,,,,
+445,,,,
+446,,,,
+447,,,,
+448,"No.4-2 Yinguang Lane, Wenquan Road, Taipei, Taiwan ",25.136194,121.51392,Hua Shin Hotel Beitou
+449,,,,
+450,,,,
+451,"No.108 Sec 2, Nanjing E. Rd.,, Taipei 104, Taiwan ",25.05196,121.53208,I Station-Midtown Apartment
+452,,,,
+453,,,,
+454,,,,
+455,,,,
+456,,,,
+457,"No.50 Minle Street, Taipei 103, Taiwan ",25.02586,121.49868,Kevin Business Hotel
+458,"22F-2, No. 50, Section 1, Zhongxiao West Road, Taipei 10041, Taiwan ",25.04651,121.51589,Key Mall Traveler Hostel
+459,"3F, No.163 Nanjing West Road, Taipei 103, Taiwan ",25.05399,121.51317,King Plaza Hotel
+460,,,,
+461,"No.105 Wuncyuan Road, Beitou District, Taipei 523, Taiwan ",25.13775,121.51258,Kyoto Spring Resort
+462,"3,5F No.179 Huayin Street, Datong District, Taipei, Taiwan ",25.05029,121.51545,Lion City Hotel
+463,,,,
+464,,,,
+465,"No.70 Tianjin Street, Zhongshan District, Taipei, Taiwan ",25.051615,121.52337,Dandy Hotel - Tianjin Branch
+466,"2-5F, No.262 Wolong Street, Taipei 110, Taiwan ",25.01768,121.55796,Lucky Apartment TWTC Linguang
+467,"No.111 Kunming Street, Wanhua District, Taipei 108, Taiwan ",25.0421,121.50464,Lucky Apartment-Ximen
+468,,,,
+469,,,,
+470,,,,
+471,"No.55 Section 1, Ren'ai Road, Zhongzheng District, Taipei 100, Taiwan ",25.0386,121.5248,Many Flower Business Hotel
+472,"2F., No.34, Kunming St, Taipei, Taiwan ",25.04698,121.50594,Michi Hotel
+473,,,,
+474,"No.122 Section 1, Sinsheng North Road, Jhongshan District, Taipei, Taiwan ",25.05085,121.52792,Moon Hotel
+475,,,,
+476,"No.226 Chang'an West Road, Datong District, Taipei, Taiwan ",25.05141,121.51465,Queens Hotel
+477,"No.17 Quanyuan Road, Beitou District, Taipei 112, Taiwan ",25.13825,121.50455,Shan Yue Hotspring Hotel Taipei
+478,,,,
+479,,,,
+480,"3F., No.174, Guilin Rd., Wanhua Dist, Taipei, Taiwan ",25.038418,121.49725,Song Lin Hotel
+481,,,,
+482,,,,
+483,,,,
+484,,,,
+485,"No.19 Jinjiang Road, Taipei 100, Taiwan ",25.0251,121.522,Taipei Corner
+486,"1F-10F, No.293 Songjiang Road, Zhongshan District, Taipei 104, Taiwan ",25.06061,121.53339,Taipei Easy Stay Inn - Serviced Apartment SJ-293
+487,,,,
+488,,,,
+489,,,,
+490,,,,
+491,"No.13 Lane 29, Xichang Street, Wanhua District, Taipei 10847, Taiwan ",25.04273,121.50114,Taipei Ximen Zebra Apartment
+492,"4F., No.78 Section 1, Zhonghua Road, Taipei 108, Taiwan ",25.04552,121.50906,Ximen Hotel
+493,,,,
+494,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+495,"No.64 Section 1, ChangAn East Road, Taipei 104, Taiwan ",25.048027,121.52942,Ambience Hotel
+496,"No.198 Minsheng West Road, 2F | Datong District, Taipei, Taiwan ",25.056997,121.51633,C U Hotel
+497,"No.43 Section 1, Zhongxiao West Road, Taipei 100, Taiwan ",25.046257,121.51827,Cosmos Hotel Taipei
+498,"No.2 SongShou Road, Xinyi District, Taipei 110, Taiwan ",25.03564,121.56262,Grand Hyatt Taipei
+499,"No.1 Section 4, Chung Shan North Road, Taipei 104, Taiwan ",25.0785,121.526,Grand Hotel Taipei
+500,"No.3, Lane 39, Section 2, Chungshan North Road, Taipei 104, Taiwan (Formerly The Regent Taipei)",25.054157,121.52435,Regent Taipei
+501,"No.158 Dunhua North Road, Songshan District, Taipei 10548, Taiwan ",25.055641,121.54841,"Mandarin Oriental, Taipei"
+502,"No.9 Nanjing E. Rd., Sec. 1, Taipei, Taiwan ",25.052519,121.52335,The Okura Prestige Taipei
+503,"No.160 Section 3, Ren'ai Road, Da'an District, Taipei 106, Taiwan ",25.03818,121.54325,Howard Plaza Hotel Taipei
+504,"No.3 Sec 1, Chengde Road, Taipei 103, Taiwan ",25.049334,121.51717,Palais de Chine Hotel
+505,"No.33 Section 3, Sinyi Road, Taipei, Taiwan ",25.033777,121.53451,Dandy Hotel - Daan Park Branch
+506,"No.1 Section 2, Zhonghua Road, Zhongzheng District, Taipei 10065, Taiwan ",25.0365,121.50716,Taipei Garden Hotel
+507,"No.10 Section 5, Zhongxiao East Road, Xinyi District, Taipei 110, Taiwan ",25.040604,121.56546,W Taipei
+508,"No.317 Section 1, Fuxing South Road, Taipei 10665, Taiwan ",25.034082,121.54385,Park Taipei Hotel
+509,"No.12 Ching Cheng Street, Taipei 105, Taiwan ",25.052834,121.545,Les Suites Taipei Ching-Cheng
+510,"No.201 Tun Hwa South Road, Section 2, Taipei 106, Taiwan ",25.026623,121.54929,Shangri-La's Far Eastern Plaza Hotel Taipei
+511,"No.38 Section1, Zhongxiao West Road, Zhongzheng District, Taipei 100, Taiwan ",25.046392,121.51657,Caesar Park Taipei
+512,"No.150, Section 1, Zhonghua Road, Wanhua District, Taipei, Taiwan ",25.042437,121.50808,Westgate Hotel
+513,"No. 2 Lane 728, Section 6, Zhongshan North Road, Shilin District, Taipei 111, Taiwan ",25.11491,121.5282,Dandy Hotel - Tianmu Branch
+514,"No.370 Section 1, Dunhua South Road, Da'an District, Taipei 10684, Taiwan ",25.03357,121.54824,Hotel Eclat Taipei
+515,"No.81 Chang'an West Road, Datong District, Taipei 103, Taiwan ",25.05098,121.51658,CityInn Hotel - Taipei Station Branch II
+516,"No.128 Section 1, Nanjing East Road, Zhongshan District, Taipei, Taiwan ",25.05202,121.52704,San Want Residences
+517,"No.37-1, Section 2, Chung Shan North Road, Taipei 104, Taiwan ",25.05372,121.52277,Hotel Royal-Nikko Taipei
+518,"No.111 Section 3, Minsheng East Road, Songshan Dist., Taipei 105, Taiwan ",25.058088,121.54586,The Sherwood Taipei
+519,"No 41 Sec 1, Zhonghua Road, Taipei, Taiwan ",25.045,121.50967,Just Sleep - Xi Men Ding
+520,"No.172 Section 4, Chung Hsiao East Road, Taipei 106, Taiwan ",25.04145,121.551,San Want Hotel
+521,"No.7 Huaining Street, Zhongzheng Distrist, Taipei 100, Taiwan ",25.04625,121.51422,CityInn Hotel - Taipei Station Branch I
+522,"No.41 Min Chuan East Road, Section 2, Taipei 104, Taiwan ",25.062574,121.52999,Landis Taipei Hotel
+523,"No.359 Linsen North Road, Taipei 104, Taiwan ",25.05724,121.52553,Gloria Residence
+524,"No.73 Section 2, Sinyi Road, Jhongjheng District, Taipei 100, Taiwan ",25.034657,121.52637,Hotel 73
