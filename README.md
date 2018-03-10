@@ -7,7 +7,7 @@
 - https://repo.continuum.io/archive/Anaconda3-5.1.0-Windows-x86_64.exe
 
 ### 程式碼:
-- https://github.com/ywchiu/pytextmining/blob/master/Demo20180310
+- https://github.com/ywchiu/pytextmining/blob/master/Demo20180310.ipynb
 
 ### InfoLite
 - https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
